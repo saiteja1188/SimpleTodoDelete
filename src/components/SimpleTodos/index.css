@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+}
+.heading {
+  color: #ff8542;
+  font-family: roboto;
+  font-size: 36px;
+}
